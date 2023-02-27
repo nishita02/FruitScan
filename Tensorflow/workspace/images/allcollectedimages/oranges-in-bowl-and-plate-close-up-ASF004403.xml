@@ -1,0 +1,38 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>oranges-in-bowl-and-plate-close-up-ASF004403.jpg</filename>
+	<path>E:\Tensorflow Object Detection\TFOD Course\Tensorflow\workspace\images\collectedimages\orange\oranges-in-bowl-and-plate-close-up-ASF004403.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1232</width>
+		<height>818</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>262</ymin>
+			<xmax>862</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>89</ymin>
+			<xmax>752</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

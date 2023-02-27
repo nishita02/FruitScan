@@ -1,0 +1,38 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>Image_196.jpg</filename>
+	<path>E:\Tensorflow Object Detection\TFOD Course\Tensorflow\workspace\images\collectedimages\banana\Image_196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>123</ymin>
+			<xmax>544</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>197</ymin>
+			<xmax>575</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple</folder>
+	<filename>Image_2.jpg</filename>
+	<path>E:\Tensorflow Object Detection\TFOD Course\Tensorflow\workspace\images\collectedimages\apple\Image_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>2223</ymin>
+			<xmax>1865</xmax>
+			<ymax>3562</ymax>
+		</bndbox>
+	</object>
+</annotation>
