@@ -1,6 +1,11 @@
 # FruitScan
 
-![image](https://user-images.githubusercontent.com/117457277/229574917-0c90c608-db63-4819-83ce-2e9bb403f0b0.png) <br>
+![result img](https://github.com/nishita02/FruitScan/assets/117457277/f5300918-3085-470e-88ae-0c2b88f7f6fe)
+
+![result img2](https://github.com/nishita02/FruitScan/assets/117457277/179eef38-e6fc-46ee-aa92-f1c16c4b107c)
+
+
+
 
 TensorFlow Object Detection API is a powerful tool for object detection and recognition, which can be used for identifying different types of fruits from images or videos.
 
