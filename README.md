@@ -1,6 +1,7 @@
 # FruitScan
 
-![result img](https://github.com/nishita02/FruitScan/assets/117457277/f5300918-3085-470e-88ae-0c2b88f7f6fe)   &nbsp  &nbsp  &nbsp ![result img2](https://github.com/nishita02/FruitScan/assets/117457277/179eef38-e6fc-46ee-aa92-f1c16c4b107c)
+![result img](https://github.com/nishita02/FruitScan/assets/117457277/f5300918-3085-470e-88ae-0c2b88f7f6fe)   &nbsp;  &nbsp;  &nbsp;
+![result img2](https://github.com/nishita02/FruitScan/assets/117457277/179eef38-e6fc-46ee-aa92-f1c16c4b107c)
 
 
 
